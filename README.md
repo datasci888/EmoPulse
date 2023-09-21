@@ -12,15 +12,15 @@ EmoPulse is a psychological counseling platform that uses Computer Vision and Si
 ## Usage
 1. Start Monitor, and get live data of emotion recognition.
 2. Stop Monitor, and get emotion tracking and heart metric reports.
-3. Go to Counsel Tab, Select informations that you want to give to the chatbot.
-4. Fill-up required values, press counsel button, and recieve feedback from AI.
+3. Go to Counsel Tab, Select the informations that you want to give to the chatbot.
+4. Fill up required values, press the counsel button, and receive feedback from AI.
 
 ## Technology used
 - Streamlit for web application
 - GPT-4 for LLM integration (Clarifai Model wrapped in LangChain)
 - Photoplethysmography (PPG) for heart rate analysis
 - AssemblyAI speech recognition and GTTS
-- DeepFace Facial Atrribute Analysis
+- DeepFace Facial Attribute Analysis
 
 ## Directory Structure
 ```
@@ -86,12 +86,12 @@ EmoPulse-main/
 - Louis JZ: louis.ljz08@gmail.com
 - Sreekanth Gopi: sree0912555@gmail.com
 
-More Info:
+## More Info
 
-A Heart pulse Monitoring App
+## EmoPulse # A Heart pulse Monitoring App
 LLM Streamlit Hackathon 2023 (https://lnkd.in/g8JMswRE) from September 5-19 2023! @Streamlit 
 
-Introducing 🌟 #EmoPulse 🌟 - Our innovative application that harnesses the power of Photoplethysmography (An algorithm that leverages variations in light intensity to infer heartbeats) and Large Language Models (LLMs) (OpenAI) to revolutionize emotional and physiological well-being analysis. With a simple webcam or a selfie camera, anyone can access advanced heart and emotional analytics, making stress management more accessible than ever!
+Introducing 🌟 ##EmoPulse## 🌟 - Our innovative application that harnesses the power of Photoplethysmography (An algorithm that leverages variations in light intensity to infer heartbeats) and Large Language Models (LLMs) (OpenAI) to revolutionize emotional and physiological well-being analysis. With a simple webcam or a selfie camera, anyone can access advanced heart and emotional analytics, making stress management more accessible than ever!
 
 Features:
         - Real-time assessment of stress levels based on facial expressions and heart rates.
