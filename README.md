@@ -1,6 +1,6 @@
 # EmoPulse
 A Heart pulse Monitoring App
-LLM Streamlit Hackathon 2023 (https://lnkd.in/g8JMswRE) from September 5-19! @Streamlit 
+LLM Streamlit Hackathon 2023 (https://lnkd.in/g8JMswRE) from September 5-19 2023! @Streamlit 
 
 Introducing 🌟 #EmoPulse 🌟 - Our innovative application that harnesses the power of Photoplethysmography (An algorithm that leverages variations in light intensity to infer heartbeats) and Large Language Models (LLMs) (OpenAI) to revolutionize emotional and physiological well-being analysis. With a simple webcam or a selfie camera, anyone can access advanced heart and emotional analytics, making stress management more accessible than ever!
 
